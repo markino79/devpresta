@@ -1,0 +1,8 @@
+Salve,
+	
+Questa è una mail di prova da parte del tuo negozio online PrestaShop™.
+
+Se riesci a leggere questa email, il test ha avuto successo!
+
+Cordialmente,
+{shop_name} powered by PrestaShop™

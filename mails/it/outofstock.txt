@@ -1,0 +1,7 @@
+Salve {firstname} {lastname},
+		
+Grazie per il tuo ordine n. {order_name} su {shop_name}.
+	
+Purtroppo, uno o più articoli del tuo ordine n.{id_order} sono al momento esauriti. Questo può provocare un leggero ritardo nella consegna. Ti preghiamo di scusarci e ti assicuriamo che stiamo facendo di tutto per risolvere il problema.
+
+Puoi rivedere questo ordine e scaricare la fattura dalla sezione "Cronologia ordine" del tuo account clicc

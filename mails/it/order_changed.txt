@@ -1,0 +1,11 @@
+Salve {firstname} {lastname},
+
+Il tuo ordine rif. {order_name} su {shop_name} è stato modificato dal venditore.
+
+Puoi rivedere questo ordine e scaricare la fattura dalla sezione "Cronologia ordine" del tuo account cliccando su "Il mio account" nel nostro sito web.
+
+Se hai un account ospite, puoi seguire il tuo ordine al seguente link {guest_tracking_url}.
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™

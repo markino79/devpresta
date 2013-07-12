@@ -1,0 +1,10 @@
+Salve,
+
+Il prodotto {product} è quasi esaurito.
+La rimanenza di magazzino è inferiore alla quantità minima specificata di {warning_coverage}.
+Attuale rimanenza di magazzino: {current_coverage}
+
+
+
+
+{shop_url} powered by PrestaShop™

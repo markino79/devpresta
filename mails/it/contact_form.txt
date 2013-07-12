@@ -1,0 +1,17 @@
+Ciao,
+
+Il tuo messaggio è stato correttamente inviato al nostro Servizio Clienti.
+
+Il tuo messaggio:
+
+{message}
+
+Riferimento ordine: (nome ordine)
+
+File allegato: (file allegato)
+
+Risponderemo quanto prima.
+
+Cordialmente,
+
+{shop_url} powered by PrestaShop™

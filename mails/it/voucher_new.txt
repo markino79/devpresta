@@ -1,0 +1,14 @@
+Salve {firstname} {lastname},
+
+La presente per informarti relativamente alla creazione di un buono sconto.
+
+Di seguito il codice del buono: {voucher_num}.
+
+Devi semplicemente copiare/incollare il codice in fase di pagamento del tuo prossimo ordine.
+
+Grazie di aver acquistato su {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop
