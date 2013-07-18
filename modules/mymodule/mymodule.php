@@ -129,7 +129,7 @@ class MyModule extends Module{
 		$helper->title = $this->displayName;
 		$helper->show_toolbar = true; /// false remuve toolbar
 		$helper->toolbar_scroll = true; /// true Toolbar is always visible on the top of the screen 
-		$helper->submit_action = 'submit'.$this->name;
+		$helper->submit_action = 'submit'.$this->name; /// nome del bottone submit
 		/// l'indice 'save' serve solo a far apparire il pulsante salva
 		/// poi in realtà scatena l'evento submit e tutti si suoi valori sono sovrascritti
 		/// da quelli inseriti nel campo submit inserito nei valori del form
