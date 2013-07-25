@@ -1758,7 +1758,7 @@ class AdminImportController extends AdminController
 			/// Importa prodotti
 			$produc_id = $this->_inProduct(
 				array(
-					'active' => 1,
+					'active' => 0,
 					'name' => $this->utf8Encode($info['articolo_x0020_descrizione2']),
 					'category' => $this->utf8Encode($info['Categoria_x0020_Descrizione']),
 					'reference' => $this->utf8Encode($info['articolo-variante']),
@@ -1784,12 +1784,11 @@ class AdminImportController extends AdminController
 							'attribute' => $info["tg$x"].":0",
 							'price' => $info["prezzo_x0020_vendita_x0020_tg$x"],
 							'quantity' => $info["giacenza_x0020_tg$x"],
-							'reference' => $this->utf8Encode($info['articolo-variante']),
+							'reference' => $info["tg$x"],
 							'default_on' => 0,
 							'wholesale_price' => 0,
 							'ecotax' => 0,
 							'weight' => 0,
-							'reference' => 0,
 							'ean13' => 0,
 							'upc' => 0
 						), 
@@ -2040,10 +2039,11 @@ class AdminImportController extends AdminController
 			$product = new Product((int)$info['id']);
 		else
 		{
-			if (array_key_exists('id', $info) && (int)$info['id'] && Product::existsInDatabase((int)$info['id'], 'product'))
+			if (array_key_exists('id', $info) && (int)$info['id'] && Product::existsInDatabase((int)$info['id'], 'product')){
 				$product = new Product((int)$info['id']);
-			else
+			}else{
 				$product = new Product();
+			}
 		}
 
 		if (array_key_exists('id', $info) && (int)$info['id'] && Product::existsInDatabase((int)$info['id'], 'product'))
@@ -2278,13 +2278,14 @@ class AdminImportController extends AdminController
 			if ( $this->match_ref == 1 && $product->reference && $product->existsRefInDatabase($product->reference))
 			{
 				$datas = Db::getInstance()->getRow('
-					SELECT product_shop.`date_add`, p.`id_product`
+					SELECT product_shop.`date_add`, p.`id_product` , p.`active`
 					FROM `'._DB_PREFIX_.'product` p
 					'.Shop::addSqlAssociation('product', 'p').'
 					WHERE p.`reference` = "'.$product->reference.'"
 				');
 				$product->id = (int)$datas['id_product'];
 				$product->date_add = pSQL($datas['date_add']);
+				$product->active = $datas['active'];
 				$res = $product->update();
 			} // Else If id product && id product already in base, trying to update
 			else if ($product->id && Product::existsInDatabase((int)$product->id, 'product'))
@@ -2492,6 +2493,9 @@ class AdminImportController extends AdminController
 		return $product->id;
 	}
 	protected function _inAttribute($info, &$groups, &$attributes, $default_language){
+// 		echo "=================\n";
+// 		print_r($info);
+// 		echo "=================\n";
 		AdminImportController::setDefaultValues($info);
 
 		if (!Shop::isFeatureActive())
@@ -2674,14 +2678,18 @@ class AdminImportController extends AdminController
 					$info['ecotax'] = str_replace(',', '.', $info['ecotax']);
 					$info['weight'] = str_replace(',', '.', $info['weight']);
 
+// 					echo "pre check reference \n";
+// 					print_r($info);
 					// if a reference is specified for this product, get the associate id_product_attribute to UPDATE
 					if (isset($info['reference']) && !empty($info['reference']))
 					{
+// 						echo "trovato reference \n";
 						$id_product_attribute = Combination::getIdByReference($product->id, strval($info['reference']));
 
 						// updates the attribute
 						if ($id_product_attribute)
 						{
+// 							echo "ho trovato l'id \n";
 							// gets all the combinations of this product
 							$attribute_combinations = $product->getAttributeCombinations($default_language);
 							foreach ($attribute_combinations as $attribute_combination)
@@ -2716,6 +2724,7 @@ class AdminImportController extends AdminController
 					// if no attribute reference is specified, creates a new one
 					if (!$id_product_attribute)
 					{
+// 						echo "NON ho trovato l'id \n";
 						$id_product_attribute = $product->addCombinationEntity(
 							(float)$info['wholesale_price'],
 							(float)$info['price'],
