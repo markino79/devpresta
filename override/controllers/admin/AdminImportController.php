@@ -2101,6 +2101,7 @@ class AdminImportController extends AdminController
 			{
 				$manufacturer = new Manufacturer();
 				$manufacturer->name = $product->manufacturer;
+				$manufacturer->active = 1;
 				if (($field_error = $manufacturer->validateFields(UNFRIENDLY_ERROR, true)) === true &&
 					($lang_field_error = $manufacturer->validateFieldsLang(UNFRIENDLY_ERROR, true)) === true && $manufacturer->add())
 					$product->id_manufacturer = (int)$manufacturer->id;
