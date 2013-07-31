@@ -57,7 +57,7 @@ class BccpaywayPaymentModuleFrontController extends ModuleFrontController{
 	protected function _autorized(){
 		$authorized = false;
 		foreach (Module::getPaymentModules() as $module){
-			if ($module['name'] == 'bankwire'){
+			if ($module['name'] == 'bccpayway'){
 				$authorized = true;
 				break;
 			}

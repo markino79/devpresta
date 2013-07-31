@@ -1768,6 +1768,7 @@ class AdminImportController extends AdminController
 					'description' => $this->utf8Encode($info['articolo_x0020_descrizione2']),
 					'available_for_order' => 1,
 					'show_price' => 1,
+					'features' => 'variante:'.$info['variante'],
 				),
 				$default_language_id,
 				$shop_ids
@@ -1895,17 +1896,19 @@ class AdminImportController extends AdminController
 		if (($field_error = $category->validateFields(UNFRIENDLY_ERROR, true)) === true &&
 			($lang_field_error = $category->validateFieldsLang(UNFRIENDLY_ERROR, true)) === true && empty($this->errors))
 		{
-			$category_already_created = Category::searchByNameAndParentCategoryId(
-				$default_language_id,
-				$category->name[$default_language_id],
-				$category->id_parent
-			);
-
+// 			$category_already_created = Category::searchByNameAndParentCategoryId(
+// 				$default_language_id,
+// 				$category->name[$default_language_id],
+// 				$category->id_parent
+// 			);
+			$category_already_created = Category::searchByName($default_language_id, $category->name[$default_language_id], true);
 			// If category already in base, get id category back
 			if ($category_already_created['id_category'])
 			{
 				$cat_moved[$category->id] = (int)$category_already_created['id_category'];
 				$category->id =	(int)$category_already_created['id_category'];
+				$category->date_add = $category_already_created['date_add'];
+				$category->id_parent = (int)$category_already_created['id_parent'];
 			}
 			
 			if ($category->id && $category->id == $category->id_parent)
@@ -2176,6 +2179,7 @@ class AdminImportController extends AdminController
 						$category_to_create->id = (int)$value;
 						$category_to_create->name = AdminImportController::createMultiLangField($value);
 						$category_to_create->active = 1;
+						$category_to_create->date_add = date("Y-m-d H:i:s");
 						$category_to_create->id_parent = Configuration::get('PS_HOME_CATEGORY'); // Default parent is home for unknown category to create
 						$category_link_rewrite = Tools::link_rewrite($category_to_create->name[$default_language_id]);
 						$category_to_create->link_rewrite = AdminImportController::createMultiLangField($category_link_rewrite);
@@ -2208,6 +2212,7 @@ class AdminImportController extends AdminController
 							$category_to_create->id_shop_default = (int)Context::getContext()->shop->id;
 						$category_to_create->name = AdminImportController::createMultiLangField(trim($value));
 						$category_to_create->active = 1;
+						$category_to_create->date_add = date("Y-m-d H:i:s");
 						$category_to_create->id_parent = (int)Configuration::get('PS_HOME_CATEGORY'); // Default parent is home for unknown category to create
 						$category_link_rewrite = Tools::link_rewrite($category_to_create->name[$default_language_id]);
 						$category_to_create->link_rewrite = AdminImportController::createMultiLangField($category_link_rewrite);

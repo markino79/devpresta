@@ -49,7 +49,7 @@
     <tg28></tg28>
     <tg29></tg29>
     <tg30></tg30>
-    <giacenza_x0020_tg1>15</giacenza_x0020_tg1>
+    <giacenza_x0020_tg1>14</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
@@ -201,7 +201,7 @@
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>-2</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>2</giacenza_x0020_tg4>
-    <giacenza_x0020_tg5>1</giacenza_x0020_tg5>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
@@ -349,7 +349,7 @@
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
-    <giacenza_x0020_tg5>1</giacenza_x0020_tg5>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
@@ -495,8 +495,8 @@
     <tg30></tg30>
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
-    <giacenza_x0020_tg3>2</giacenza_x0020_tg3>
-    <giacenza_x0020_tg4>2</giacenza_x0020_tg4>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
     <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
@@ -643,7 +643,7 @@
     <tg30></tg30>
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
-    <giacenza_x0020_tg3>2</giacenza_x0020_tg3>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>2</giacenza_x0020_tg4>
     <giacenza_x0020_tg5>2</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
@@ -791,8 +791,8 @@
     <tg30></tg30>
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
-    <giacenza_x0020_tg3>2</giacenza_x0020_tg3>
-    <giacenza_x0020_tg4>1</giacenza_x0020_tg4>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
     <giacenza_x0020_tg5>1</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
@@ -1086,10 +1086,10 @@
     <tg29></tg29>
     <tg30></tg30>
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
-    <giacenza_x0020_tg2>2</giacenza_x0020_tg2>
-    <giacenza_x0020_tg3>1</giacenza_x0020_tg3>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
-    <giacenza_x0020_tg5>2</giacenza_x0020_tg5>
+    <giacenza_x0020_tg5>1</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
@@ -1233,7 +1233,7 @@
     <tg28></tg28>
     <tg29></tg29>
     <tg30></tg30>
-    <giacenza_x0020_tg1>20</giacenza_x0020_tg1>
+    <giacenza_x0020_tg1>7</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
@@ -1481,6 +1481,154 @@
     <tab_x0020_tipo_x0020_taglia_x0020_descrizione>US</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
   </articoli>
   <articoli>
+    <articolo-variante>3691000738131-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>A1911353 E13</articolo_x0020_codice_x0020_esterno>
+    <articolo>JEANS VOLCOM</articolo>
+    <variante>LUW</variante>
+    <codice_x0020_fornitore>9</codice_x0020_fornitore>
+    <fornitore>BREKKA srl</fornitore>
+    <Tipo_x0020_Sigla>UOMO</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>UOMO</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>AST</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ABB STREET</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>PAN</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>PANTALONI</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>JEA</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>JEANS</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>VOL</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>VOLCOM</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>22</tg1>
+    <tg2>24</tg2>
+    <tg3>26</tg3>
+    <tg4>28</tg4>
+    <tg5>29</tg5>
+    <tg6>30</tg6>
+    <tg7>31</tg7>
+    <tg8>32</tg8>
+    <tg9>33</tg9>
+    <tg10>34</tg10>
+    <tg11>36</tg11>
+    <tg12>38</tg12>
+    <tg13>40</tg13>
+    <tg14>42</tg14>
+    <tg15>27</tg15>
+    <tg16>25</tg16>
+    <tg17>23</tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>1</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>1</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>1</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>1</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>81.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>81.9</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>81.9</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>81.9</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>81.9</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>81.9</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>81.9</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>81.9</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>81.9</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>81.9</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>81.9</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>81.9</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>81.9</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>81.9</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>81.9</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>81.9</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>81.9</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>E13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>ESTATE 2013</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>ACTIVIST</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>05</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>US</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
     <articolo-variante>3691000739456-1</articolo-variante>
     <articolo_x0020_codice_x0020_esterno>E5911350 E13</articolo_x0020_codice_x0020_esterno>
     <articolo>CINTURA VOLCOM</articolo>
@@ -1622,6 +1770,302 @@
     <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
     <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
     <articolo_x0020_descrizione2>FANTASTIC GRACE</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>04</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>TG</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
+    <articolo-variante>3691000737185-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>LUMBER I13</articolo_x0020_codice_x0020_esterno>
+    <articolo>T-SHIRT ARMADA</articolo>
+    <variante>CHRCL</variante>
+    <codice_x0020_fornitore>41</codice_x0020_fornitore>
+    <fornitore>OBERALP</fornitore>
+    <Tipo_x0020_Sigla>UOMO</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>UOMO</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>ABT</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ABB TECNICO</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>TSH</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>T-SHIRT</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>SS</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>T-SHIRT S/S</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>ARM</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>ARMADA</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>XXS</tg1>
+    <tg2>XS</tg2>
+    <tg3>S</tg3>
+    <tg4>M</tg4>
+    <tg5>L</tg5>
+    <tg6>XL</tg6>
+    <tg7>XXL</tg7>
+    <tg8></tg8>
+    <tg9></tg9>
+    <tg10></tg10>
+    <tg11></tg11>
+    <tg12></tg12>
+    <tg13></tg13>
+    <tg14></tg14>
+    <tg15></tg15>
+    <tg16></tg16>
+    <tg17></tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>29.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>29.9</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>29.9</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>29.9</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>29.9</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>29.9</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>29.9</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>0</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>0</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>0</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>0</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>0</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>0</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>0</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>0</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>0</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>0</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>I13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>INVERNO 13</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>LUMBER SQUAD</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>04</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>TG</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
+    <articolo-variante>3691000737191-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>AKARI I13</articolo_x0020_codice_x0020_esterno>
+    <articolo>GIACCA SNOW ARMADA</articolo>
+    <variante>BLK</variante>
+    <codice_x0020_fornitore>41</codice_x0020_fornitore>
+    <fornitore>OBERALP</fornitore>
+    <Tipo_x0020_Sigla>DONNA</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>DONNA</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>ABT</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ABB TECNICO</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>GIA</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>GIACCHE</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>GSN</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>GIACCA SNOW</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>ARM</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>ARMADA</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>XXS</tg1>
+    <tg2>XS</tg2>
+    <tg3>S</tg3>
+    <tg4>M</tg4>
+    <tg5>L</tg5>
+    <tg6>XL</tg6>
+    <tg7>XXL</tg7>
+    <tg8></tg8>
+    <tg9></tg9>
+    <tg10></tg10>
+    <tg11></tg11>
+    <tg12></tg12>
+    <tg13></tg13>
+    <tg14></tg14>
+    <tg15></tg15>
+    <tg16></tg16>
+    <tg17></tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>1</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>459.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>459.9</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>459.9</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>459.9</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>459.9</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>459.9</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>459.9</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>0</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>0</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>0</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>0</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>0</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>0</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>0</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>0</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>0</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>0</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>I13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>INVERNO 13</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>AKARI GORE TEX</articolo_x0020_descrizione2>
     <tab_x0020_tipo_x0020_taglia_x0020_sigla>04</tab_x0020_tipo_x0020_taglia_x0020_sigla>
     <nogozio_x0020_sigla></nogozio_x0020_sigla>
     <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
@@ -1826,10 +2270,10 @@
     <tg29></tg29>
     <tg30></tg30>
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
-    <giacenza_x0020_tg2>2</giacenza_x0020_tg2>
+    <giacenza_x0020_tg2>1</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>1</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
-    <giacenza_x0020_tg5>1</giacenza_x0020_tg5>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
@@ -1975,7 +2419,7 @@
     <tg30></tg30>
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
-    <giacenza_x0020_tg3>1</giacenza_x0020_tg3>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
     <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
@@ -2127,10 +2571,10 @@
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
     <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>2</giacenza_x0020_tg6>
-    <giacenza_x0020_tg7>2</giacenza_x0020_tg7>
-    <giacenza_x0020_tg8>1</giacenza_x0020_tg8>
-    <giacenza_x0020_tg9>3</giacenza_x0020_tg9>
-    <giacenza_x0020_tg10>3</giacenza_x0020_tg10>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>1</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>1</giacenza_x0020_tg10>
     <giacenza_x0020_tg11>1</giacenza_x0020_tg11>
     <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
     <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
@@ -2269,7 +2713,7 @@
     <tg28></tg28>
     <tg29></tg29>
     <tg30></tg30>
-    <giacenza_x0020_tg1>3</giacenza_x0020_tg1>
+    <giacenza_x0020_tg1>2</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
@@ -2426,7 +2870,7 @@
     <giacenza_x0020_tg7>1</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>1</giacenza_x0020_tg8>
     <giacenza_x0020_tg9>1</giacenza_x0020_tg9>
-    <giacenza_x0020_tg10>1</giacenza_x0020_tg10>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
     <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
     <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
     <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
@@ -2569,7 +3013,7 @@
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
-    <giacenza_x0020_tg5>1</giacenza_x0020_tg5>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
@@ -2716,7 +3160,7 @@
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
-    <giacenza_x0020_tg4>1</giacenza_x0020_tg4>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
     <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>1</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
@@ -2873,7 +3317,7 @@
     <giacenza_x0020_tg10>1</giacenza_x0020_tg10>
     <giacenza_x0020_tg11>1</giacenza_x0020_tg11>
     <giacenza_x0020_tg12>1</giacenza_x0020_tg12>
-    <giacenza_x0020_tg13>1</giacenza_x0020_tg13>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
     <giacenza_x0020_tg14>1</giacenza_x0020_tg14>
     <giacenza_x0020_tg15>1</giacenza_x0020_tg15>
     <giacenza_x0020_tg16>1</giacenza_x0020_tg16>
@@ -2959,6 +3403,154 @@
     <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
     <articolo_x0020_note></articolo_x0020_note>
     <tab_x0020_tipo_x0020_taglia_x0020_descrizione>USA</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
+    <articolo-variante>3691000756199-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>VS5G I13</articolo_x0020_codice_x0020_esterno>
+    <articolo>T-SHIRT VANS</articolo>
+    <variante>BLK</variante>
+    <codice_x0020_fornitore>135</codice_x0020_fornitore>
+    <fornitore>VF</fornitore>
+    <Tipo_x0020_Sigla>UOMO</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>UOMO</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>AST</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ABB STREET</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>TSH</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>T-SHIRT</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>SS</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>T-SHIRT S/S</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>VAN</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>VANS</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>XXS</tg1>
+    <tg2>XS</tg2>
+    <tg3>S</tg3>
+    <tg4>M</tg4>
+    <tg5>L</tg5>
+    <tg6>XL</tg6>
+    <tg7>XXL</tg7>
+    <tg8></tg8>
+    <tg9></tg9>
+    <tg10></tg10>
+    <tg11></tg11>
+    <tg12></tg12>
+    <tg13></tg13>
+    <tg14></tg14>
+    <tg15></tg15>
+    <tg16></tg16>
+    <tg17></tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>36.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>36.9</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>36.9</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>36.9</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>36.9</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>36.9</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>36.9</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>0</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>0</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>0</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>0</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>0</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>0</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>0</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>0</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>0</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>0</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>I13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>INVERNO 13</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>ALVA</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>04</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>TG</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
   </articoli>
   <articoli>
     <articolo-variante>3691000759317-1</articolo-variante>
@@ -3157,7 +3749,7 @@
     <tg28></tg28>
     <tg29></tg29>
     <tg30></tg30>
-    <giacenza_x0020_tg1>6</giacenza_x0020_tg1>
+    <giacenza_x0020_tg1>5</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
@@ -3455,9 +4047,9 @@
     <tg30></tg30>
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
-    <giacenza_x0020_tg3>1</giacenza_x0020_tg3>
-    <giacenza_x0020_tg4>2</giacenza_x0020_tg4>
-    <giacenza_x0020_tg5>1</giacenza_x0020_tg5>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>1</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
@@ -3546,6 +4138,450 @@
     <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
     <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
     <articolo_x0020_descrizione2>REYNOLDS</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>04</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>TG</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
+    <articolo-variante>3691000760677-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>0230129 E13</articolo_x0020_codice_x0020_esterno>
+    <articolo>GIUBBOTTO CHEAP MONDAY</articolo>
+    <variante>LGHT TRSH</variante>
+    <codice_x0020_fornitore>200</codice_x0020_fornitore>
+    <fornitore>JAT S.P.A</fornitore>
+    <Tipo_x0020_Sigla>UOMO</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>UOMO</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>AST</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ABB STREET</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>GIA</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>GIACCHE</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>GIU</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>GIUBBOTTO</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>CHM</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>CHEAP MONDAY</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>XXS</tg1>
+    <tg2>XS</tg2>
+    <tg3>S</tg3>
+    <tg4>M</tg4>
+    <tg5>L</tg5>
+    <tg6>XL</tg6>
+    <tg7>XXL</tg7>
+    <tg8></tg8>
+    <tg9></tg9>
+    <tg10></tg10>
+    <tg11></tg11>
+    <tg12></tg12>
+    <tg13></tg13>
+    <tg14></tg14>
+    <tg15></tg15>
+    <tg16></tg16>
+    <tg17></tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>1</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>2</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>1</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>82.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>82.9</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>82.9</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>82.9</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>82.9</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>82.9</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>82.9</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>0</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>0</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>0</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>0</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>0</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>0</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>0</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>0</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>0</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>0</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>E13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>ESTATE 2013</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>TOBIAS</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>04</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>TG</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
+    <articolo-variante>3691000770551-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>MS1130206A00 E13</articolo_x0020_codice_x0020_esterno>
+    <articolo>SCARPA SKATE LAKAI</articolo>
+    <variante>CRM GUM</variante>
+    <codice_x0020_fornitore>19</codice_x0020_fornitore>
+    <fornitore>FRESHDISTRIBUTION</fornitore>
+    <Tipo_x0020_Sigla>UOMO</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>UOMO</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>AST</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ABB STREET</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>SCA</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>SCARPE</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>SSK</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>SCARPE SKATE</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>LAK</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>LAKAI</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>4</tg1>
+    <tg2>4,5</tg2>
+    <tg3>5</tg3>
+    <tg4>5,5</tg4>
+    <tg5>6</tg5>
+    <tg6>6,5</tg6>
+    <tg7>7</tg7>
+    <tg8>7,5</tg8>
+    <tg9>8</tg9>
+    <tg10>8,5</tg10>
+    <tg11>9</tg11>
+    <tg12>9,5</tg12>
+    <tg13>10</tg13>
+    <tg14>10,5</tg14>
+    <tg15>11</tg15>
+    <tg16>11,5</tg16>
+    <tg17>12</tg17>
+    <tg18>13</tg18>
+    <tg19>14</tg19>
+    <tg20>3,5</tg20>
+    <tg21>1</tg21>
+    <tg22>2</tg22>
+    <tg23>3</tg23>
+    <tg24>3,5</tg24>
+    <tg25>1,5</tg25>
+    <tg26>2,5</tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>1</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>2</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>1</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>2</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>1</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>2</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>69.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>69.9</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>69.9</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>69.9</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>69.9</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>69.9</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>69.9</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>69.9</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>69.9</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>69.9</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>69.9</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>69.9</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>69.9</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>69.9</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>69.9</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>69.9</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>69.9</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>69.9</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>69.9</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>69.9</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>69.9</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>69.9</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>69.9</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>69.9</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>69.9</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>69.9</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>E13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>ESTATE 2013</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>JUDO</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>07</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>USA</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
+    <articolo-variante>3691000772528-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>0255076 E13</articolo_x0020_codice_x0020_esterno>
+    <articolo>CANOTTA CHEAP MONDAY</articolo>
+    <variante>AZZ BLU</variante>
+    <codice_x0020_fornitore>200</codice_x0020_fornitore>
+    <fornitore>JAT S.P.A</fornitore>
+    <Tipo_x0020_Sigla>UOMO</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>UOMO</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>AST</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ABB STREET</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>TSH</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>T-SHIRT</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>SS</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>T-SHIRT S/S</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>CHM</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>CHEAP MONDAY</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>XXS</tg1>
+    <tg2>XS</tg2>
+    <tg3>S</tg3>
+    <tg4>M</tg4>
+    <tg5>L</tg5>
+    <tg6>XL</tg6>
+    <tg7>XXL</tg7>
+    <tg8></tg8>
+    <tg9></tg9>
+    <tg10></tg10>
+    <tg11></tg11>
+    <tg12></tg12>
+    <tg13></tg13>
+    <tg14></tg14>
+    <tg15></tg15>
+    <tg16></tg16>
+    <tg17></tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>1</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>37.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>37.9</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>37.9</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>37.9</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>37.9</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>37.9</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>37.9</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>0</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>0</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>0</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>0</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>0</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>0</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>0</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>0</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>0</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>0</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>E13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>ESTATE 2013</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>JOSRPH TANK</articolo_x0020_descrizione2>
     <tab_x0020_tipo_x0020_taglia_x0020_sigla>04</tab_x0020_tipo_x0020_taglia_x0020_sigla>
     <nogozio_x0020_sigla></nogozio_x0020_sigla>
     <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
@@ -4196,9 +5232,9 @@
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>1</giacenza_x0020_tg3>
-    <giacenza_x0020_tg4>6</giacenza_x0020_tg4>
-    <giacenza_x0020_tg5>7</giacenza_x0020_tg5>
-    <giacenza_x0020_tg6>2</giacenza_x0020_tg6>
+    <giacenza_x0020_tg4>5</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>5</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>1</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
     <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
@@ -4293,6 +5329,154 @@
     <tab_x0020_tipo_x0020_taglia_x0020_descrizione>TG</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
   </articoli>
   <articoli>
+    <articolo-variante>3691000784817-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>316212B E13</articolo_x0020_codice_x0020_esterno>
+    <articolo>BOARDSHORT INSIGHT</articolo>
+    <variante>SANGR</variante>
+    <codice_x0020_fornitore>108</codice_x0020_fornitore>
+    <fornitore>OPTION SRL - INSIGHT</fornitore>
+    <Tipo_x0020_Sigla>UOMO</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>UOMO</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>AST</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ABB STREET</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>PAN</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>PANTALONI</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>BOA</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>BOARDSHORT</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>INS</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>INSIGHT</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>22</tg1>
+    <tg2>24</tg2>
+    <tg3>26</tg3>
+    <tg4>28</tg4>
+    <tg5>29</tg5>
+    <tg6>30</tg6>
+    <tg7>31</tg7>
+    <tg8>32</tg8>
+    <tg9>33</tg9>
+    <tg10>34</tg10>
+    <tg11>36</tg11>
+    <tg12>38</tg12>
+    <tg13>40</tg13>
+    <tg14>42</tg14>
+    <tg15>27</tg15>
+    <tg16>25</tg16>
+    <tg17>23</tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>73.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>73.9</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>73.9</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>73.9</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>73.9</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>73.9</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>73.9</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>73.9</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>73.9</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>73.9</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>73.9</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>73.9</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>73.9</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>73.9</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>73.9</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>73.9</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>73.9</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>E13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>ESTATE 2013</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>CHURCH MID</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>05</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>US</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
     <articolo-variante>3691000781846-1</articolo-variante>
     <articolo_x0020_codice_x0020_esterno>10GOLD E13</articolo_x0020_codice_x0020_esterno>
     <articolo>SKATE COMPLETO DRAGON</articolo>
@@ -4341,7 +5525,7 @@
     <tg28></tg28>
     <tg29></tg29>
     <tg30></tg30>
-    <giacenza_x0020_tg1>4</giacenza_x0020_tg1>
+    <giacenza_x0020_tg1>10</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
     <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
@@ -4643,10 +5827,10 @@
     <giacenza_x0020_tg4>1</giacenza_x0020_tg4>
     <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
     <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
-    <giacenza_x0020_tg7>1</giacenza_x0020_tg7>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
-    <giacenza_x0020_tg9>1</giacenza_x0020_tg9>
-    <giacenza_x0020_tg10>1</giacenza_x0020_tg10>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
     <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
     <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
     <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
@@ -4737,6 +5921,302 @@
     <tab_x0020_tipo_x0020_taglia_x0020_descrizione>US</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
   </articoli>
   <articoli>
+    <articolo-variante>3691000796910-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>20139090310000054 E13</articolo_x0020_codice_x0020_esterno>
+    <articolo>LONGBOARD MADRID</articolo>
+    <variante>ASS</variante>
+    <codice_x0020_fornitore>133</codice_x0020_fornitore>
+    <fornitore>NITRO DISTRIBUTION ITALIA</fornitore>
+    <Tipo_x0020_Sigla>VAR</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>VARIE</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>ATT</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ATTREZZI</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>SKA</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>SKATE</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>LON</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>LONGBOARD</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>MDR</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>MADRID</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>TU</tg1>
+    <tg2></tg2>
+    <tg3></tg3>
+    <tg4></tg4>
+    <tg5></tg5>
+    <tg6></tg6>
+    <tg7></tg7>
+    <tg8></tg8>
+    <tg9></tg9>
+    <tg10></tg10>
+    <tg11></tg11>
+    <tg12></tg12>
+    <tg13></tg13>
+    <tg14></tg14>
+    <tg15></tg15>
+    <tg16></tg16>
+    <tg17></tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>1</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>169.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>0</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>0</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>0</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>0</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>0</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>0</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>0</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>0</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>0</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>0</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>0</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>0</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>0</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>0</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>0</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>0</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>E13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>ESTATE 2013</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>PAINT STRIPES</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>03</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>UNICA</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
+    <articolo-variante>3691000808608-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>48400-7008 E13</articolo_x0020_codice_x0020_esterno>
+    <articolo>AURICOLARI ION</articolo>
+    <variante>GRY YLW</variante>
+    <codice_x0020_fornitore></codice_x0020_fornitore>
+    <fornitore>BOARDS AND MORE GMBH</fornitore>
+    <Tipo_x0020_Sigla>UOMO</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>UOMO</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>ACS</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ACCESSORI STREET</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>AUD</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>AUDIO</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>AUR</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>AURICOLARI</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>ION</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>ION</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>TU</tg1>
+    <tg2></tg2>
+    <tg3></tg3>
+    <tg4></tg4>
+    <tg5></tg5>
+    <tg6></tg6>
+    <tg7></tg7>
+    <tg8></tg8>
+    <tg9></tg9>
+    <tg10></tg10>
+    <tg11></tg11>
+    <tg12></tg12>
+    <tg13></tg13>
+    <tg14></tg14>
+    <tg15></tg15>
+    <tg16></tg16>
+    <tg17></tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>5</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>29.9</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>0</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>0</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>0</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>0</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>0</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>0</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>0</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>0</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>0</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>0</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>0</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>0</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>0</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>0</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>0</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>0</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>E13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>ESTATE 2013</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>DRY HEADPHONE</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>03</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>UNICA</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
     <articolo-variante>3691000790745-1</articolo-variante>
     <articolo_x0020_codice_x0020_esterno>DVF0000032. E13</articolo_x0020_codice_x0020_esterno>
     <articolo>SCARPE SKATE DVS</articolo>
@@ -4788,16 +6268,16 @@
     <giacenza_x0020_tg1>0</giacenza_x0020_tg1>
     <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
     <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
-    <giacenza_x0020_tg4>2</giacenza_x0020_tg4>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
     <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
-    <giacenza_x0020_tg6>2</giacenza_x0020_tg6>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
     <giacenza_x0020_tg7>2</giacenza_x0020_tg7>
     <giacenza_x0020_tg8>1</giacenza_x0020_tg8>
     <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
-    <giacenza_x0020_tg10>1</giacenza_x0020_tg10>
-    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
-    <giacenza_x0020_tg12>1</giacenza_x0020_tg12>
-    <giacenza_x0020_tg13>1</giacenza_x0020_tg13>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>1</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
     <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
     <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
     <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
@@ -4883,6 +6363,154 @@
     <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
     <articolo_x0020_note></articolo_x0020_note>
     <tab_x0020_tipo_x0020_taglia_x0020_descrizione>USA</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
+  </articoli>
+  <articoli>
+    <articolo-variante>3691000795212-1</articolo-variante>
+    <articolo_x0020_codice_x0020_esterno>10153 E13</articolo_x0020_codice_x0020_esterno>
+    <articolo>LACCI MASTERDIS</articolo>
+    <variante>ASS</variante>
+    <codice_x0020_fornitore></codice_x0020_fornitore>
+    <fornitore>MasterDis</fornitore>
+    <Tipo_x0020_Sigla>VAR</Tipo_x0020_Sigla>
+    <Tipo_x0020_Descrizione>VARIE</Tipo_x0020_Descrizione>
+    <Reparto_x0020_Sigla>ACS</Reparto_x0020_Sigla>
+    <Reparto_x0020_Descrizione>ACCESSORI STREET</Reparto_x0020_Descrizione>
+    <Sottoreparto_x0020_Sigla>SCA</Sottoreparto_x0020_Sigla>
+    <Sottoreparto_x0020_Descrizione>SCARPE</Sottoreparto_x0020_Descrizione>
+    <Categoria_x0020_Sigla>LAC</Categoria_x0020_Sigla>
+    <Categoria_x0020_Descrizione>LACCI</Categoria_x0020_Descrizione>
+    <Marchio_x0020_Sigla>MAS</Marchio_x0020_Sigla>
+    <Marchio_x0020_Descrizione>MASTERDIS</Marchio_x0020_Descrizione>
+    <OLD_x0020_Sigla></OLD_x0020_Sigla>
+    <OLD_x0020_Descrizione></OLD_x0020_Descrizione>
+    <tg1>TU</tg1>
+    <tg2></tg2>
+    <tg3></tg3>
+    <tg4></tg4>
+    <tg5></tg5>
+    <tg6></tg6>
+    <tg7></tg7>
+    <tg8></tg8>
+    <tg9></tg9>
+    <tg10></tg10>
+    <tg11></tg11>
+    <tg12></tg12>
+    <tg13></tg13>
+    <tg14></tg14>
+    <tg15></tg15>
+    <tg16></tg16>
+    <tg17></tg17>
+    <tg18></tg18>
+    <tg19></tg19>
+    <tg20></tg20>
+    <tg21></tg21>
+    <tg22></tg22>
+    <tg23></tg23>
+    <tg24></tg24>
+    <tg25></tg25>
+    <tg26></tg26>
+    <tg27></tg27>
+    <tg28></tg28>
+    <tg29></tg29>
+    <tg30></tg30>
+    <giacenza_x0020_tg1>158</giacenza_x0020_tg1>
+    <giacenza_x0020_tg2>0</giacenza_x0020_tg2>
+    <giacenza_x0020_tg3>0</giacenza_x0020_tg3>
+    <giacenza_x0020_tg4>0</giacenza_x0020_tg4>
+    <giacenza_x0020_tg5>0</giacenza_x0020_tg5>
+    <giacenza_x0020_tg6>0</giacenza_x0020_tg6>
+    <giacenza_x0020_tg7>0</giacenza_x0020_tg7>
+    <giacenza_x0020_tg8>0</giacenza_x0020_tg8>
+    <giacenza_x0020_tg9>0</giacenza_x0020_tg9>
+    <giacenza_x0020_tg10>0</giacenza_x0020_tg10>
+    <giacenza_x0020_tg11>0</giacenza_x0020_tg11>
+    <giacenza_x0020_tg12>0</giacenza_x0020_tg12>
+    <giacenza_x0020_tg13>0</giacenza_x0020_tg13>
+    <giacenza_x0020_tg14>0</giacenza_x0020_tg14>
+    <giacenza_x0020_tg15>0</giacenza_x0020_tg15>
+    <giacenza_x0020_tg16>0</giacenza_x0020_tg16>
+    <giacenza_x0020_tg17>0</giacenza_x0020_tg17>
+    <giacenza_x0020_tg18>0</giacenza_x0020_tg18>
+    <giacenza_x0020_tg19>0</giacenza_x0020_tg19>
+    <giacenza_x0020_tg20>0</giacenza_x0020_tg20>
+    <giacenza_x0020_tg21>0</giacenza_x0020_tg21>
+    <giacenza_x0020_tg22>0</giacenza_x0020_tg22>
+    <giacenza_x0020_tg23>0</giacenza_x0020_tg23>
+    <giacenza_x0020_tg24>0</giacenza_x0020_tg24>
+    <giacenza_x0020_tg25>0</giacenza_x0020_tg25>
+    <giacenza_x0020_tg26>0</giacenza_x0020_tg26>
+    <giacenza_x0020_tg27>0</giacenza_x0020_tg27>
+    <giacenza_x0020_tg28>0</giacenza_x0020_tg28>
+    <giacenza_x0020_tg29>0</giacenza_x0020_tg29>
+    <giacenza_x0020_tg30>0</giacenza_x0020_tg30>
+    <prezzo_x0020_vendita_x0020_tg1>2.5</prezzo_x0020_vendita_x0020_tg1>
+    <prezzo_x0020_vendita_x0020_tg2>0</prezzo_x0020_vendita_x0020_tg2>
+    <prezzo_x0020_vendita_x0020_tg3>0</prezzo_x0020_vendita_x0020_tg3>
+    <prezzo_x0020_vendita_x0020_tg4>0</prezzo_x0020_vendita_x0020_tg4>
+    <prezzo_x0020_vendita_x0020_tg5>0</prezzo_x0020_vendita_x0020_tg5>
+    <prezzo_x0020_vendita_x0020_tg6>0</prezzo_x0020_vendita_x0020_tg6>
+    <prezzo_x0020_vendita_x0020_tg7>0</prezzo_x0020_vendita_x0020_tg7>
+    <prezzo_x0020_vendita_x0020_tg8>0</prezzo_x0020_vendita_x0020_tg8>
+    <prezzo_x0020_vendita_x0020_tg9>0</prezzo_x0020_vendita_x0020_tg9>
+    <prezzo_x0020_vendita_x0020_tg10>0</prezzo_x0020_vendita_x0020_tg10>
+    <prezzo_x0020_vendita_x0020_tg11>0</prezzo_x0020_vendita_x0020_tg11>
+    <prezzo_x0020_vendita_x0020_tg12>0</prezzo_x0020_vendita_x0020_tg12>
+    <prezzo_x0020_vendita_x0020_tg13>0</prezzo_x0020_vendita_x0020_tg13>
+    <prezzo_x0020_vendita_x0020_tg14>0</prezzo_x0020_vendita_x0020_tg14>
+    <prezzo_x0020_vendita_x0020_tg15>0</prezzo_x0020_vendita_x0020_tg15>
+    <prezzo_x0020_vendita_x0020_tg16>0</prezzo_x0020_vendita_x0020_tg16>
+    <prezzo_x0020_vendita_x0020_tg17>0</prezzo_x0020_vendita_x0020_tg17>
+    <prezzo_x0020_vendita_x0020_tg18>0</prezzo_x0020_vendita_x0020_tg18>
+    <prezzo_x0020_vendita_x0020_tg19>0</prezzo_x0020_vendita_x0020_tg19>
+    <prezzo_x0020_vendita_x0020_tg20>0</prezzo_x0020_vendita_x0020_tg20>
+    <prezzo_x0020_vendita_x0020_tg21>0</prezzo_x0020_vendita_x0020_tg21>
+    <prezzo_x0020_vendita_x0020_tg22>0</prezzo_x0020_vendita_x0020_tg22>
+    <prezzo_x0020_vendita_x0020_tg23>0</prezzo_x0020_vendita_x0020_tg23>
+    <prezzo_x0020_vendita_x0020_tg24>0</prezzo_x0020_vendita_x0020_tg24>
+    <prezzo_x0020_vendita_x0020_tg25>0</prezzo_x0020_vendita_x0020_tg25>
+    <prezzo_x0020_vendita_x0020_tg26>0</prezzo_x0020_vendita_x0020_tg26>
+    <prezzo_x0020_vendita_x0020_tg27>0</prezzo_x0020_vendita_x0020_tg27>
+    <prezzo_x0020_vendita_x0020_tg28>0</prezzo_x0020_vendita_x0020_tg28>
+    <prezzo_x0020_vendita_x0020_tg29>0</prezzo_x0020_vendita_x0020_tg29>
+    <prezzo_x0020_vendita_x0020_tg30>0</prezzo_x0020_vendita_x0020_tg30>
+    <tab_x0020_stagione_x0020_sigla>E13</tab_x0020_stagione_x0020_sigla>
+    <tab_x0020_stagione_x0020_descrizione>ESTATE 2013</tab_x0020_stagione_x0020_descrizione>
+    <prezzo2_x0020_vendita_x0020_tg1>0</prezzo2_x0020_vendita_x0020_tg1>
+    <prezzo2_x0020_vendita_x0020_tg2>0</prezzo2_x0020_vendita_x0020_tg2>
+    <prezzo2_x0020_vendita_x0020_tg3>0</prezzo2_x0020_vendita_x0020_tg3>
+    <prezzo2_x0020_vendita_x0020_tg4>0</prezzo2_x0020_vendita_x0020_tg4>
+    <prezzo2_x0020_vendita_x0020_tg5>0</prezzo2_x0020_vendita_x0020_tg5>
+    <prezzo2_x0020_vendita_x0020_tg6>0</prezzo2_x0020_vendita_x0020_tg6>
+    <prezzo2_x0020_vendita_x0020_tg7>0</prezzo2_x0020_vendita_x0020_tg7>
+    <prezzo2_x0020_vendita_x0020_tg8>0</prezzo2_x0020_vendita_x0020_tg8>
+    <prezzo2_x0020_vendita_x0020_tg9>0</prezzo2_x0020_vendita_x0020_tg9>
+    <prezzo2_x0020_vendita_x0020_tg10>0</prezzo2_x0020_vendita_x0020_tg10>
+    <prezzo2_x0020_vendita_x0020_tg11>0</prezzo2_x0020_vendita_x0020_tg11>
+    <prezzo2_x0020_vendita_x0020_tg12>0</prezzo2_x0020_vendita_x0020_tg12>
+    <prezzo2_x0020_vendita_x0020_tg13>0</prezzo2_x0020_vendita_x0020_tg13>
+    <prezzo2_x0020_vendita_x0020_tg14>0</prezzo2_x0020_vendita_x0020_tg14>
+    <prezzo2_x0020_vendita_x0020_tg15>0</prezzo2_x0020_vendita_x0020_tg15>
+    <prezzo2_x0020_vendita_x0020_tg16>0</prezzo2_x0020_vendita_x0020_tg16>
+    <prezzo2_x0020_vendita_x0020_tg17>0</prezzo2_x0020_vendita_x0020_tg17>
+    <prezzo2_x0020_vendita_x0020_tg18>0</prezzo2_x0020_vendita_x0020_tg18>
+    <prezzo2_x0020_vendita_x0020_tg19>0</prezzo2_x0020_vendita_x0020_tg19>
+    <prezzo2_x0020_vendita_x0020_tg20>0</prezzo2_x0020_vendita_x0020_tg20>
+    <prezzo2_x0020_vendita_x0020_tg21>0</prezzo2_x0020_vendita_x0020_tg21>
+    <prezzo2_x0020_vendita_x0020_tg22>0</prezzo2_x0020_vendita_x0020_tg22>
+    <prezzo2_x0020_vendita_x0020_tg23>0</prezzo2_x0020_vendita_x0020_tg23>
+    <prezzo2_x0020_vendita_x0020_tg24>0</prezzo2_x0020_vendita_x0020_tg24>
+    <prezzo2_x0020_vendita_x0020_tg25>0</prezzo2_x0020_vendita_x0020_tg25>
+    <prezzo2_x0020_vendita_x0020_tg26>0</prezzo2_x0020_vendita_x0020_tg26>
+    <prezzo2_x0020_vendita_x0020_tg27>0</prezzo2_x0020_vendita_x0020_tg27>
+    <prezzo2_x0020_vendita_x0020_tg28>0</prezzo2_x0020_vendita_x0020_tg28>
+    <prezzo2_x0020_vendita_x0020_tg29>0</prezzo2_x0020_vendita_x0020_tg29>
+    <prezzo2_x0020_vendita_x0020_tg30>0</prezzo2_x0020_vendita_x0020_tg30>
+    <articolo_x0020_descrizione2>FLAT 120</articolo_x0020_descrizione2>
+    <tab_x0020_tipo_x0020_taglia_x0020_sigla>03</tab_x0020_tipo_x0020_taglia_x0020_sigla>
+    <nogozio_x0020_sigla></nogozio_x0020_sigla>
+    <nogozio_x0020_descrizione></nogozio_x0020_descrizione>
+    <articolo_x0020_note></articolo_x0020_note>
+    <tab_x0020_tipo_x0020_taglia_x0020_descrizione>UNICA</tab_x0020_tipo_x0020_taglia_x0020_descrizione>
   </articoli>
 </NewDataSet>
  
